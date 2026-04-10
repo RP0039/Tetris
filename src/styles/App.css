@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: doto, sans-serif;
+  color:white;
+  font-weight:bold;
+  height: 100vh;
+}
+
+@font-face {
+  font-family: 'doto';
+  src: url(/src/assets/font/Doto-VariableFont_ROND\,wght.ttf);
+}

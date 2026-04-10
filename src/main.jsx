@@ -1,4 +1,4 @@
 import { createRoot } from 'react-dom/client'
-import App from './App.jsx'
+import Main from './Main-menu.jsx'
 
-createRoot(document.getElementById('app')).render(<App />)
+createRoot(document.getElementById('app')).render(<Main />)
